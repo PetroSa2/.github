@@ -9,7 +9,7 @@
 * Technical Analysis Libraries (e.g., TA-Lib, Zipline)
 * Backtesting.py
 * Stream Processing: Apache Kafka
-* Database: MongoDB, MySQL (or whichever you use)
+* Database: MongoDB, MySQL
 * Big Data Processing: Apache Spark
 
 **Project Overview:**
